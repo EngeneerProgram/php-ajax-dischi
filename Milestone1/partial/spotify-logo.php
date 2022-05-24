@@ -1,3 +1,3 @@
 <div class="spotify-logo">
-    <img src="./assets/spotify.png" alt="">
+    <img src="./assets/img//logo.png"  alt="">
 </div>
